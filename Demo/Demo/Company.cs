@@ -13,6 +13,7 @@ namespace Demo
         public int age  { get; set; }
         public string gender { get; set; }
         public int salary { get; set; }
+        public string address{get;set;}
         void PersonDetails();
 
     }
