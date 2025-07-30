@@ -1,0 +1,11 @@
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\bin\Debug\net8.0\LibraryOld.deps.json
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\bin\Debug\net8.0\LibraryOld.dll
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\bin\Debug\net8.0\LibraryOld.pdb
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.AssemblyInfoInputs.cache
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.AssemblyInfo.cs
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.csproj.CoreCompileInputs.cache
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.dll
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\refint\LibraryOld.dll
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\LibraryOld.pdb
+C:\Users\Krishnamoorthi\source\repos\ExtensionMethod\LibraryOld\obj\Debug\net8.0\ref\LibraryOld.dll
