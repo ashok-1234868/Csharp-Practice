@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\BookBorrowing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|f:\\c#\\bookborrowing\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|f:\\c#\\bookborrowing\\dataaccess\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|solutionrelative:dataaccess\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C#\\BookBorrowing\\Migrations\\20250731062914_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250731062914_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|f:\\c#\\bookborrowing\\dataaccess\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|solutionrelative:dataaccess\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|f:\\c#\\bookborrowing\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|f:\\c#\\bookborrowing\\business\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68150055-E109-48B1-8AA9-80AF7EA0FB66}|BookBorrowing.csproj|solutionrelative:business\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250731062914_FirstMigration.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\Migrations\\20250731062914_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250731062914_FirstMigration.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\Migrations\\20250731062914_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20250731062914_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:30:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\DataAccess\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BookRepository.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\DataAccess\\BookRepository.cs",
+              "RelativeToolTip": "DataAccess\\BookRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:23:34.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\DataAccess\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BookDbContext.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\DataAccess\\BookDbContext.cs",
+              "RelativeToolTip": "DataAccess\\BookDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:23:05.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:22:15.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:13:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryServices.cs",
+              "DocumentMoniker": "F:\\C#\\BookBorrowing\\Business\\LibraryServices.cs",
+              "RelativeDocumentMoniker": "Business\\LibraryServices.cs",
+              "ToolTip": "F:\\C#\\BookBorrowing\\Business\\LibraryServices.cs",
+              "RelativeToolTip": "Business\\LibraryServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:24:29.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
