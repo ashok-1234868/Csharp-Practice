@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|c:\\users\\krishnamoorthi\\source\\repos\\advancewebapi\\repositary\\apimanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|solutionrelative:repositary\\apimanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|c:\\users\\krishnamoorthi\\source\\repos\\advancewebapi\\controllers\\demofunctionalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|solutionrelative:controllers\\demofunctionalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|c:\\users\\krishnamoorthi\\source\\repos\\advancewebapi\\repositary\\apifunctionalites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|solutionrelative:repositary\\apifunctionalites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|c:\\users\\krishnamoorthi\\source\\repos\\advancewebapi\\modelentity\\employedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|solutionrelative:modelentity\\employedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|c:\\users\\krishnamoorthi\\source\\repos\\advancewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0AC598-1D2C-4689-B267-80F408FC6C80}|AdvanceWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T08:17:53.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\ModelEntity\\EmployeDetails.cs",
+              "RelativeDocumentMoniker": "ModelEntity\\EmployeDetails.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\ModelEntity\\EmployeDetails.cs",
+              "RelativeToolTip": "ModelEntity\\EmployeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:40:47.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoFunctionalityController.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Controllers\\DemoFunctionalityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoFunctionalityController.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Controllers\\DemoFunctionalityController.cs",
+              "RelativeToolTip": "Controllers\\DemoFunctionalityController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:23:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Repositary\\ApiManipulation.cs",
+              "RelativeDocumentMoniker": "Repositary\\ApiManipulation.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Repositary\\ApiManipulation.cs",
+              "RelativeToolTip": "Repositary\\ApiManipulation.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:12:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiFunctionalites.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Repositary\\ApiFunctionalites.cs",
+              "RelativeDocumentMoniker": "Repositary\\ApiFunctionalites.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\AdvanceWebAPI\\Repositary\\ApiFunctionalites.cs",
+              "RelativeToolTip": "Repositary\\ApiFunctionalites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:12:02.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

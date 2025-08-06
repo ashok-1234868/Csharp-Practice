@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace EntityFrameWorkDemo.DataMnipulation
 {
-    internal class Manipulation
+   internal class Manipulation
     {
-        
+       // var con= new Dbconnections.ApplicationDbConnection();
         public void DisplayAllColleges()
         // display all college records
         {

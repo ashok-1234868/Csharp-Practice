@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\entirearchitecturedemo\\dataaccesslayers\\dataaccesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|solutionrelative:dataaccesslayers\\dataaccesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\entirearchitecturedemo\\businesslayeroperations\\manipulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|solutionrelative:businesslayeroperations\\manipulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\entirearchitecturedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\entirearchitecturedemo\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3D9B42-7C22-4B73-93E6-2A79FF21BF58}|EntireArchitectureDemo.csproj|solutionrelative:models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manipulations.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\BusinesslayerOperations\\Manipulations.cs",
+              "RelativeDocumentMoniker": "BusinesslayerOperations\\Manipulations.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\BusinesslayerOperations\\Manipulations.cs",
+              "RelativeToolTip": "BusinesslayerOperations\\Manipulations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:28:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccesOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\DataAccessLayers\\DataAccesOperation.cs",
+              "RelativeDocumentMoniker": "DataAccessLayers\\DataAccesOperation.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\DataAccessLayers\\DataAccesOperation.cs",
+              "RelativeToolTip": "DataAccessLayers\\DataAccesOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:26:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\Models\\UserDetails.cs",
+              "RelativeToolTip": "Models\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:18:30.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\EntireArchitectureDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:12:05.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

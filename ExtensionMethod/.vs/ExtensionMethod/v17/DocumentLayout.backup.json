@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3274B148-F4A6-4857-AF83-2ADDE7D26DDF}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\krishnamoorthi\\source\\repos\\extensionmethod\\extensionmethod\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B148-F4A6-4857-AF83-2ADDE7D26DDF}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3274B148-F4A6-4857-AF83-2ADDE7D26DDF}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\krishnamoorthi\\source\\repos\\extensionmethod\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B148-F4A6-4857-AF83-2ADDE7D26DDF}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1165-F2A5-48DA-87DE-B5D3AD7C7027}|LibraryOld\\LibraryOld.csproj|c:\\users\\krishnamoorthi\\source\\repos\\extensionmethod\\libraryold\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1165-F2A5-48DA-87DE-B5D3AD7C7027}|LibraryOld\\LibraryOld.csproj|solutionrelative:libraryold\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\ExtensionMethod\\Extension.cs",
+              "RelativeDocumentMoniker": "ExtensionMethod\\Extension.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\ExtensionMethod\\Extension.cs",
+              "RelativeToolTip": "ExtensionMethod\\Extension.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:46:35.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\LibraryOld\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryOld\\Library.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\LibraryOld\\Library.cs",
+              "RelativeToolTip": "LibraryOld\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:44:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\ExtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\ExtensionMethod\\ExtensionMethod\\Program.cs*",
+              "RelativeToolTip": "ExtensionMethod\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:42:53.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

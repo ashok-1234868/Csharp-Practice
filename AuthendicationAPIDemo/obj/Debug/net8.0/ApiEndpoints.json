@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "AuthendicationAPIDemo.Controllers.AuthdicationController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Authdication/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthendicationAPIDemo.Controllers.AuthdicationController",
+    "Method": "Login",
+    "RelativePath": "api/Authdication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "AuthendicationAPIDemo.Models.UserAuthendication",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthendicationAPIDemo.Controllers.AuthdicationController",
+    "Method": "Register",
+    "RelativePath": "api/Authdication/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dummy",
+        "Type": "AuthendicationAPIDemo.DTO.DummyUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthendicationAPIDemo.Controllers.AuthdicationController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Authdication/show",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthendicationAPIDemo.Controllers.AuthdicationController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Authdication/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "AuthendicationAPIDemo.Models.UserAuthendication",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

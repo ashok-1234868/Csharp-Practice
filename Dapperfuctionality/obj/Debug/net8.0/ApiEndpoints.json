@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Dapperfuctionality.Controllers.DemoController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Demo/AddEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "Dapperfuctionality.Models.EmpolyeEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapperfuctionality.Controllers.DemoController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/Demo/DeleteEmployee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapperfuctionality.Controllers.DemoController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Demo/GetAllEmployees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapperfuctionality.Controllers.DemoController",
+    "Method": "GetEmployeeById",
+    "RelativePath": "api/Demo/GetEmployeeById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapperfuctionality.Controllers.DemoController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Demo/UpdateEmployee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "Dapperfuctionality.Models.EmpolyeEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

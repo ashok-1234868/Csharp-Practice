@@ -1,0 +1,14 @@
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\bin\Debug\net8.0\EntireArchitectureDemo.exe
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\bin\Debug\net8.0\EntireArchitectureDemo.deps.json
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\bin\Debug\net8.0\EntireArchitectureDemo.runtimeconfig.json
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\bin\Debug\net8.0\EntireArchitectureDemo.dll
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\bin\Debug\net8.0\EntireArchitectureDemo.pdb
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.AssemblyInfoInputs.cache
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.AssemblyInfo.cs
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.dll
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\refint\EntireArchitectureDemo.dll
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.pdb
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\EntireArchitectureDemo.genruntimeconfig.cache
+C:\Users\Krishnamoorthi\source\repos\EntireArchitectureDemo\obj\Debug\net8.0\ref\EntireArchitectureDemo.dll

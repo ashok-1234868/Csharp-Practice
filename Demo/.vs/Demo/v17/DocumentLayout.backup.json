@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\companyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\companyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\justdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\justdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\dictionaryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\dictionaryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\delegateoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\delegateoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|c:\\users\\krishnamoorthi\\source\\repos\\demo\\demo\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7050A17-D0ED-40B1-A370-4E14C7D44197}|Demo\\Demo.csproj|solutionrelative:demo\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\CompanyInterface.cs",
+              "RelativeDocumentMoniker": "Demo\\CompanyInterface.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\CompanyInterface.cs",
+              "RelativeToolTip": "Demo\\CompanyInterface.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:28:34.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Company.cs",
+              "RelativeDocumentMoniker": "Demo\\Company.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Company.cs",
+              "RelativeToolTip": "Demo\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:25:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Justdemo.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Justdemo.cs",
+              "RelativeDocumentMoniker": "Demo\\Justdemo.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Justdemo.cs",
+              "RelativeToolTip": "Demo\\Justdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:24:27.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\DelegateOperation.cs",
+              "RelativeDocumentMoniker": "Demo\\DelegateOperation.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\DelegateOperation.cs",
+              "RelativeToolTip": "Demo\\DelegateOperation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:08:58.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:29:21.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DictionaryOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\DictionaryOperation.cs",
+              "RelativeDocumentMoniker": "Demo\\DictionaryOperation.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\DictionaryOperation.cs",
+              "RelativeToolTip": "Demo\\DictionaryOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:46:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Listoperation.cs",
+              "DocumentMoniker": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Listoperation.cs",
+              "RelativeDocumentMoniker": "Demo\\Listoperation.cs",
+              "ToolTip": "C:\\Users\\Krishnamoorthi\\source\\repos\\Demo\\Demo\\Listoperation.cs",
+              "RelativeToolTip": "Demo\\Listoperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:32:32.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

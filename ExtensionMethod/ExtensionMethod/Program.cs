@@ -7,10 +7,11 @@ namespace ExtensionMethod
     {
         static void Main(string[] args)
         {
-            Library li=new Library();
-            li.Anbu();
-            
-            
+            Library l=new Library();
+            l.Anbu();
+           
+
+
         }
     }
 }

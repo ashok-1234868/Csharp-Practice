@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "AdvanceWebAPI.Controllers.DemoFunctionalityController",
+    "Method": "Put",
+    "RelativePath": "api/DemoFunctionality/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdvanceWebAPI.Controllers.DemoFunctionalityController",
+    "Method": "Delete",
+    "RelativePath": "api/DemoFunctionality/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdvanceWebAPI.Controllers.DemoFunctionalityController",
+    "Method": "Get",
+    "RelativePath": "api/DemoFunctionality/show",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdvanceWebAPI.Controllers.DemoFunctionalityController",
+    "Method": "Post",
+    "RelativePath": "api/DemoFunctionality/values",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dTO",
+        "Type": "AdvanceWebAPI.DTO.DummyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
