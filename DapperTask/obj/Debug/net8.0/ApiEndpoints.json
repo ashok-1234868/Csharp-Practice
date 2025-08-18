@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "DapperTask.Controllers.StudentDetailsController",
+    "Method": "Create",
+    "RelativePath": "api/StudentDetails/AddStudentWithAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "DapperTask.DTO.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperTask.Controllers.StudentDetailsController",
+    "Method": "DeleteStudentWithAddress",
+    "RelativePath": "api/StudentDetails/DeleteStudentWithAddress/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperTask.Controllers.StudentDetailsController",
+    "Method": "GetAllStudentsDetails",
+    "RelativePath": "api/StudentDetails/GetAllStudentsDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperTask.Controllers.StudentDetailsController",
+    "Method": "GetStudentByIdDetails",
+    "RelativePath": "api/StudentDetails/GetStudentByIdDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperTask.Controllers.StudentDetailsController",
+    "Method": "UpdateStudentWithAddress",
+    "RelativePath": "api/StudentDetails/UpdateStudentWithAddress",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "DapperTask.DTO.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
