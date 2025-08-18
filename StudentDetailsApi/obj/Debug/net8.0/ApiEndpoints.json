@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "StudentDetailsApi.Controllers.StudentController",
+    "Method": "Create",
+    "RelativePath": "api/Student/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "StudentDetailsApi.DTO.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentDetailsApi.Controllers.StudentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Student/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
