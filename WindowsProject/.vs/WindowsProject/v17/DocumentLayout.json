@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\WindowsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|f:\\c#\\windowsproject\\windowsproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|F:\\C#\\WindowsProject\\windowsproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|F:\\C#\\WindowsProject\\windowsproject\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|F:\\C#\\WindowsProject\\windowsproject\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|F:\\C#\\WindowsProject\\windowsproject\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|F:\\C#\\WindowsProject\\windowsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A21D40-8F4A-4722-A48E-63F4FEF461D5}|WindowsProject\\WindowsProject.csproj|solutionrelative:windowsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\SignUp.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\SignUp.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\SignUp.cs",
+              "RelativeToolTip": "WindowsProject\\SignUp.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:35:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\SignUp.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\SignUp.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\SignUp.cs [Design]",
+              "RelativeToolTip": "WindowsProject\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:26:25.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\LoginForm.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\LoginForm.cs",
+              "RelativeToolTip": "WindowsProject\\LoginForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:55:13.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\DbConfig.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\DbConfig.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\DbConfig.cs",
+              "RelativeToolTip": "WindowsProject\\DbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:58:42.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\PasswordHasher.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\PasswordHasher.cs",
+              "RelativeToolTip": "WindowsProject\\PasswordHasher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:51:18.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\WindowsProject\\WindowsProject\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsProject\\Program.cs",
+              "ToolTip": "F:\\C#\\WindowsProject\\WindowsProject\\Program.cs",
+              "RelativeToolTip": "WindowsProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:44:14.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

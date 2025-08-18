@@ -1,0 +1,14 @@
+F:\C#\Anonymus\bin\Debug\net8.0\Anonymus.exe
+F:\C#\Anonymus\bin\Debug\net8.0\Anonymus.deps.json
+F:\C#\Anonymus\bin\Debug\net8.0\Anonymus.runtimeconfig.json
+F:\C#\Anonymus\bin\Debug\net8.0\Anonymus.dll
+F:\C#\Anonymus\bin\Debug\net8.0\Anonymus.pdb
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.AssemblyInfoInputs.cache
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.AssemblyInfo.cs
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.csproj.CoreCompileInputs.cache
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.dll
+F:\C#\Anonymus\obj\Debug\net8.0\refint\Anonymus.dll
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.pdb
+F:\C#\Anonymus\obj\Debug\net8.0\Anonymus.genruntimeconfig.cache
+F:\C#\Anonymus\obj\Debug\net8.0\ref\Anonymus.dll

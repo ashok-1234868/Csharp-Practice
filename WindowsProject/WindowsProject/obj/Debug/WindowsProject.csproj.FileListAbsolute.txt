@@ -1,0 +1,12 @@
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.AssemblyReference.cache
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.GenerateResource.cache
+F:\C#\WindowsProject\WindowsProject\bin\Debug\WindowsProject.exe.config
+F:\C#\WindowsProject\WindowsProject\bin\Debug\WindowsProject.exe
+F:\C#\WindowsProject\WindowsProject\bin\Debug\WindowsProject.pdb
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.Properties.Resources.resources
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.CoreCompileInputs.cache
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.exe
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.pdb
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.exe.config
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.LoginForm.resources
+F:\C#\WindowsProject\WindowsProject\obj\Debug\WindowsProject.SignUp.resources
